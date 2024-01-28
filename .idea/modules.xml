@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringCourse.iml" filepath="$PROJECT_DIR$/.idea/SpringCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-sping-boot/03-spring-boot-hiberhate-jpa-crud/cruddemo/cruddemo.iml" filepath="$PROJECT_DIR$/dev-sping-boot/03-spring-boot-hiberhate-jpa-crud/cruddemo/cruddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-sping-boot/01-spring-boot-overview/02-dev-tools-demo /myapp.iml" filepath="$PROJECT_DIR$/dev-sping-boot/01-spring-boot-overview/02-dev-tools-demo /myapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-sping-boot/01-spring-boot-overview/01-spring-boot-demo/myapp (1).iml" filepath="$PROJECT_DIR$/dev-sping-boot/01-spring-boot-overview/01-spring-boot-demo/myapp (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-sping-boot/02-spring-boot-spring-core/08-bean-lifecycle /myapp (2).iml" filepath="$PROJECT_DIR$/dev-sping-boot/02-spring-boot-spring-core/08-bean-lifecycle /myapp (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-sping-boot/02-spring-boot-spring-core/01-constructor-injection/myapp (3).iml" filepath="$PROJECT_DIR$/dev-sping-boot/02-spring-boot-spring-core/01-constructor-injection/myapp (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/dev-sping-boot/04-spring-boot-rest-crud/restapp/restapp.iml" filepath="$PROJECT_DIR$/dev-sping-boot/04-spring-boot-rest-crud/restapp/restapp.iml" />
+    </modules>
+  </component>
+</project>
