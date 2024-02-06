@@ -21,6 +21,9 @@ public class InstructorDetail {
     @Column(name="hobby")
     private String hobby;
 
+    //add @OneToOne annotation
+    @OneToOne(mappedBy="instructorDetail", cascade= {CascadeType.DETACH, CascadeType.MERGE, CascadeType.PERSIST, CascadeType.REFRESH})
+    private Instructor instructor;
 
     //create constructors
     public InstructorDetail(){
@@ -59,7 +62,18 @@ public class InstructorDetail {
     }
 
 
+    public Instructor getInstructor() {
+        return instructor;
+    }
+
+    public void setInstructor(Instructor instructor) {
+        this.instructor = instructor;
+    }
+
+
     //generate toString() method
+
+
     @Override
     public String toString() {
         return "InstructorDetail{" +
